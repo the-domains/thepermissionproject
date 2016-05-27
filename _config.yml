@@ -1,0 +1,28 @@
+name: ThePermissionProject
+favicon: null
+layout_spectrum: 0.19223746214993298
+typography_spectrum: 0.059592202538624406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.38074434734880924
+  lightness: 0.7099946239031851
+  saturation: 0.2506819295231253
+  rhythmicContrast: 0.8004337712191045
+purpose: []
